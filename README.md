@@ -1,5 +1,6 @@
 **Zad 1 Docker**
 
+
 3.0 obraz ubuntu z Pythonem w wersji 3.8
 
 3.5 obraz ubuntu:22.04 z Javą w wersji 8 oraz Kotlinem
@@ -81,7 +82,7 @@ Termin: **1.12**
 
 4.0 modele Produktów oraz Kategorii (z relacją)
 
-4.5 utworzyć relacje pomiędzy modelami
+4.5 model Użytkownika
 
 5.0 modele w Realmie lub Firebase
 
